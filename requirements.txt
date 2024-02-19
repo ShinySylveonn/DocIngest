@@ -1,0 +1,4 @@
+langchain 
+weaviate-client 
+gradio 
+pymongo
